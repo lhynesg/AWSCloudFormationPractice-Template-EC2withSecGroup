@@ -1,4 +1,4 @@
-AWSTemplateFormatVersion: '2018-09-06’
+AWSTemplateFormatVersion: '2018-09-06â€™
 	Description: 'AWS CloudFormation Template for EC2Instance With Security Group:
 	  Created an Amazon EC2 instance running on Linux AMI.
 	  
@@ -28,47 +28,6 @@ Description: Name of an existing EC2 KeyPair to enable SSH access to the instanc
 	    - m1.xlarge
 	    - m2.xlarge
 	    - m2.2xlarge
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 	    ConstraintDescription: must be a valid EC2 instance type.
 	  SSHLocation: 
