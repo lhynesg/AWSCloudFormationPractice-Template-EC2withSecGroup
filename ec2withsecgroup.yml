@@ -2,9 +2,6 @@ AWSTemplateFormatVersion: '2018-09-06’
 	Description: 'AWS CloudFormation Template for EC2Instance With Security Group:
 	  Created an Amazon EC2 instance running on Linux AMI.
 	  
-
-
-
 	Parameters:
 	  KeyName:
 Description: Name of an existing EC2 KeyPair to enable SSH access to the instance (Virginia)
